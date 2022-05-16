@@ -340,3 +340,17 @@ ul {
     cursor: pointer;
   }
 }
+
+/*--------Media Query For Less Than 600 screen size--------*/
+
+@media only screen and (max-width: 600px) {
+  .row {
+    text-align: center;
+  }
+
+  .col-2,
+  .col-3,
+  .col-4 {
+    flex-basis: 100%;
+  }
+}
