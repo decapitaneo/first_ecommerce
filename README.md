@@ -1,2 +1,3 @@
-# plant_lovers_commerce
- 
+# Link to GitHub Pages
+
+https://decapitaneo.github.io/first_ecommerce/
